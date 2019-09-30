@@ -50,16 +50,16 @@ Author URI : http://www.markups.io/
   background-color: #37c6f5;  
 }
 .button-default {  
-  border: 2px solid #37c6f5 !important;
-  color: #37c6f5 !important;
+  border: 2px solid #1f7592 !important;
+  color: #1f7491 !important;
 }
 .button-default:hover {
-  border-color: #37c6f5;
+  border-color: #1a6983;
 }
 .button-default:hover,
 .button-default:focus {
-  border-color: #37c6f5;
-  background-color: #37c6f5 !important;  
+  border-color: #227e9c;
+  background-color: #196883 !important;  
 }
 .introduction-btn {
   background-color: rgba(55, 198, 245, 0.8);
@@ -136,7 +136,7 @@ Author URI : http://www.markups.io/
   border-color:#37c6f5;  
 }
 .single-widget h2 {
-  border-left: 3px solid #37c6f5;  
+  border-left: 3px solid #0d5b75;  
 }
 .popular-post-widget .media-heading a:hover,
 .popular-post-widget .media-heading a:focus{

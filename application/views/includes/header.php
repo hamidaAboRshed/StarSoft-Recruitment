@@ -16,7 +16,7 @@
 <!-- Animate css -->
 <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/animate.css"/>  
     <!-- Theme color -->
-<link id="switcher" href="<?php echo base_url();?>assets/css/theme-color/default.css" rel="stylesheet">
+<link id="switcher" href="<?php echo base_url();?>assets/css/theme-color/lite-blue-theme.css" rel="stylesheet">
 
 <link href="<?php echo base_url();?>assets/css/preloader.css" rel="stylesheet">
 <!-- Main Style -->

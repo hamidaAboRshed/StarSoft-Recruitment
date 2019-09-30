@@ -8,4 +8,17 @@ class Home extends CI_Controller {
         $this->data['subview'] = 'Home';
         $this->load->view('layouts/layout', $this->data);
     }
+
+    function contact_us(){
+        $this->data['pageTitle']='Home';
+        $this->data['subview'] = 'contact_us';
+        $this->load->view('layouts/layout', $this->data);
+    }
+
+
+    function service(){
+        $this->data['pageTitle']='Home';
+        $this->data['subview'] = 'service';
+        $this->load->view('layouts/layout', $this->data);
+    }
 }
